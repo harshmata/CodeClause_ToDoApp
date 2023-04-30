@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="task_hint">Enter task</string>
+    <string name="due_date_text">Due Date:</string>
+    <string name="due_date_hint">MM/DD/YYYY</string>
+    <string name="due_time_text">Due Time:</string>
+    <string name="due_time_hint">HH:MM AM/PM</string>
+    <string name="add_button_text">Add</string>
+    <string name="add_todo_item_title">Add item</string>
+</resources>
